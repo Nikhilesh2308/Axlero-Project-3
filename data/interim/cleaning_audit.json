@@ -1,0 +1,14 @@
+{
+  "rows_raw": 30120,
+  "sql_duplicates_removed": 120,
+  "unparseable_timestamps": 0,
+  "missing_carrier": 150,
+  "missing_weight": 450,
+  "coords_swapped_fixed": 299,
+  "coords_imputed_from_city": 90,
+  "timestamps_swapped_fixed": 240,
+  "year_typos_fixed": 46,
+  "unfixable_dropped": 0,
+  "rows_clean": 30000,
+  "pct_rows_dropped": 0.398
+}
